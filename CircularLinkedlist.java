@@ -179,9 +179,9 @@ package DS;
 		
 		
 		
-	public static void main(String[] args) {
-			
-			//Node<Integer> head = InsertAtEnd();
+	public static void main(String[] args) 
+	
+	{
 			
 	Node<Integer> head = InsertAtBegining();
 			
